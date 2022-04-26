@@ -1,0 +1,8 @@
+/.dockerignore
+/.vscode
+/docker-compose.debug.yml
+/docker-compose.yml
+/Dockerfile
+/launch.json
+/newFunction.js
+/rank.js
