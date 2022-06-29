@@ -67,7 +67,7 @@ const switchTest = num1 => {
 }
 
 function adjustableFizzbuzz(adjCheck, adjCheck2, adjStart, adjStop) {
-    check1=adjCheck, check2=adjCheck2, check3 = check1 * check2
+    check1 = adjCheck, check2 = adjCheck2, check3 = check1 * check2
     startValue = adjStart, stopValue = adjStop
     selectTest(adjStart, adjStop, "if")
 }
