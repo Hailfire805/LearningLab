@@ -72,7 +72,7 @@ function adjustableFizzbuzz(adjCheck, adjCheck2, adjStart, adjStop) {
     selectTest(adjStart, adjStop, "if")
 }
 
-// selectTest(1, 30, "if")
+selectTest(1, 30, "if")
 
 // selectTest(1, 30, "switch")
 
